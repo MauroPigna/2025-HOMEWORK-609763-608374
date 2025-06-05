@@ -1,9 +1,0 @@
-Stanze:Atrio, Archivio, Uffici, Armadietti, Open_Area, Server_room, Meeting
-Stanze Buie:Server_room torcia
-Stanze Magiche:Meeting
-Stanze Bloccate:Archivio nord chiave, Armadietti nord piedeDiPorco
-Inizio:Atrio
-Vincente:Uffici
-Attrezzi:piedeDiPorco 5 Server_room, salame 1 Meeting
-Personaggi:Open_Area Mago Antonello Piacere! torcia 2, Meeting Cane Baldo Woof_woof! chiave 1 salame, Atrio Strega Imelda Gira_alla_larga_se_non_vuoi_finire_nei_pasticci
-Uscite:Atrio nord Open_Area, Open_Area sud Atrio, Atrio ovest Server_room, Server_room est Atrio, Atrio est Armadietti, Armadietti ovest Atrio, Armadietti nord Archivio, Archivio sud Armadietti, Archivio est Meeting, Meeting ovest Archivio, Archivio nord Uffici, Uffici sud Archivio
