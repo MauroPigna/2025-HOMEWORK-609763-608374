@@ -1,0 +1,37 @@
+# Configurazione del Gioco DiaDia
+
+peso_max_borsa=10
+cfu_iniziali=20
+soglia_magica=3
+numero_massimo_attrezzi=10
+messaggio_benvenuto=Ti trovi nell'Universita', ma oggi e' diversa dal solito...\n\
+			Meglio andare al piu' presto in biblioteca a studiare. Ma dov'e'?\n\
+			I locali sono popolati da strani personaggi,\n\
+			alcuni amici, altri... chissa!\n\
+			Ci sono attrezzi che potrebbero servirti nell'impresa:\n\
+			puoi raccoglierli, usarli, posarli quando ti sembrano inutili\n\
+			o regalarli se pensi che possano ingraziarti qualcuno.\n\ \n\
+			Per conoscere le istruzioni usa il comando 'aiuto'.
+messaggio_con_chi=Con chi dovrei interagire?...
+messaggio_fine=\n\Grazie di aver giocato!
+messaggio_vittoria=Hai vinto!
+missaggio_sconfitta=Hai esaurito i CFU...
+messaggio_comando_sconosciuto=Comando Non Valido
+messaggio_attrezzo_inesistente=Attrezzo Inesistente
+messaggio_attrezzo_non_posato=Non è stato possibile posare l'attrezzo specificato.
+messaggio_attrezzo_posato=Oggetto posato con successo!
+messaggio_attrezzo_non_preso=Non è stato possibile prendere l'attrezzo specificato.
+messaggio_attrezzo_preso=Oggetto preso con successo!
+messaggio_quale_direzione=Dove vuoi andare? Specifica la direzione...
+messaggio_morso=GRRRRR!!\n\
+			Il cane ti ha morso...
+messaggio_cibo=Gnam Gnam!\n\
+			Il cane si è mangiato il suo cibo preferito.\n\
+			Ha lasciato cadere un attrezzo che teneva in bocca.
+messaggio_non_ha_oggetto=Il cane non ha più oggetti da lasciarti... \n\
+messaggio_dono=Sei un vero simpaticone, con una mia magica azione, troverai un nuovo oggetto per il tuo borsone!
+messaggio_regalo=Grazie per questo regalo!\n\ Troverai questo attrezzo dimezzato in peso a terra nella stanza corrente!
+messaggio_scuse=Mi spiace, ma non ho piu' nulla...
+messaggio_risata=HAHAHAHAHA, chi regalerebbe un oggetto a una strega aspettandosi qualcosa in cambio...
+messaggio_non_salutata=Non si interagisce con una signora senza neanche averla salutata,\n\ SPARISCI!
+messaggio_inganno=Te l'ho detto, sono una strega e non mi piace condividere l'aria con gentaccia come te,\n\ SPARISCI!

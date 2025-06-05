@@ -1,0 +1,9 @@
+Stanze: Atrio, Aula_N11, Aula_N10, Laboratorio_Campus, Biblioteca
+Stanze Buie:
+Stanze Magiche:
+Stanze Bloccate:
+Inizio: Atrio
+Vincente: Biblioteca 
+Attrezzi: lanterna 3 Aula_N10, osso 1 Atrio
+Personaggi:
+Uscite:Atrio nord Biblioteca, Atrio est Aula_N11, Atrio sud Aula_N10, Aula_N11 est Laboratorio_Campus, Aula_N11 ovest Atrio, Aula_N10 nord Atrio, Aula_N10 est Aula_N11, Aula_N10 ovest Laboratorio_Campus, Laboratorio_Campus est Atrio, Laboratorio_Campus ovest Aula_N11, Biblioteca sud Atrio
